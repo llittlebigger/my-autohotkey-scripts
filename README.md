@@ -7,3 +7,7 @@
 | | `Shift + CapsLock` | Make capslock work normal |
 | `gitBashAtFavoriteLocation.ahk` | `Win + B` | Opens Git Bash at my favourite directory |
 | `startDockerFromToolbox.ahk` | `Win + D` | Runs the Docker Toolbox `start.sh` script |
+| `frenchSpecialChars.ahk` | `Ctrl + Shift + e` | Writes the `ë` character |
+| | `Ctrl + Shift + i` | Writes the `ï` character |
+| | `Ctrl + Alt + c` | Writes the `ç` character |
+| | `Ctrl + Alt + Shift + C` | Writes the `Ç` character |
