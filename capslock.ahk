@@ -20,7 +20,7 @@ else
     StringReplace, Clipboard, Clipboard, &, `%26, All
     StringReplace, Clipboard, Clipboard, +, `%2b, All
     StringReplace, Clipboard, Clipboard, ", `%22, All
-    Run % "http://www.google.de/#hl=de&q=" . clipboard ; uriEncode(clipboard)
+    Run % "http://www.google.de/search?q=" . clipboard ; uriEncode(clipboard)
 }
 Clipboard := MyClip
 return
